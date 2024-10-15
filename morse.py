@@ -70,3 +70,5 @@ print(morse_encode(text))
 
 
 assert morse_encode("бебра") == "− · · · · − · · · · − · · −" , "something wronge"
+
+print("Hello world")
